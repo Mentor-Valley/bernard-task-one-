@@ -45,7 +45,7 @@
         <div class="bottom">
             <section class="money">
                 <i class="fa-solid fa-wallet"></i>   <span class="transfer-money">Transfer Money</span>
-                <p class="transfer-money-text">Sending money around the world is easy. Find out how you can make transfers from Georgia to your loved ones online</p>
+                <p class="transfer-money-text">Sending money around the world is easy. Find out how you can make transfers from Georgia to your loved ones online.</p>
             </section>
             <section class="first-angle">
             <i class="fa-solid fa-angle-right"></i>
