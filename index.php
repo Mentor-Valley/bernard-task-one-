@@ -52,14 +52,14 @@
             </section>
             <section class="transfer">
                 <i class="fa-solid fa-shield-halved"></i> <span class="safe"> Safe Transfer</span>
-                <p>Sending money around the world is easy. Find out how you can make transfers from Georgia to your loved ones online</p>
+                <p>Sending money around the world is easy. Find out how you can make transfers from Georgia to your loved ones online.</p>
             </section>
             <section class="first-angle">
                 <i class="fa-solid fa-angle-right"></i>
                 </section>
             <section class="real">
                 <i class="fa-solid fa-user-group"></i><span class="friend"> Friendship</span>
-                <p>Sending money around the world is easy. Find out how you can make transfers from Georgia to your loved ones online</p>
+                <p>Sending money around the world is easy. Find out how you can make transfers from Georgia to your loved ones online.</p>
             </section>
         </div>
     
